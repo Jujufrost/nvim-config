@@ -1,0 +1,3 @@
+This is my personalized configuration of NeoVim.
+
+This uses the packer package manager. May have to install before use.
