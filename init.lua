@@ -1,11 +1,4 @@
 -- IMPORTS --
-require('user.opts')
-require('user.vars')
-require('user.keys')
-require('user.plug')
-
+require('julian.core')
+require('julian.lazy')
 -- PLUGINS --
-require('after.tree')
-require('after.lualine')
-require('after.treesitter')
-require('after.lsp')

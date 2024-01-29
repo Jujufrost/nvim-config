@@ -10,7 +10,6 @@ vim.opt.signcolumn = 'no'
 -- Theme --
 opt.syntax = "ON"
 opt.termguicolors = true
-vim.cmd[[colorscheme dracula]]
 
 -- Search --
 opt.ignorecase = true
