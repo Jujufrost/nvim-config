@@ -8,7 +8,8 @@ opt.shiftwidth = 4
 opt.signcolumn = 'no'
 opt.autoindent = true
 opt.smartindent = true
-
+vim.g.loaded_netrw = 1
+vim.g.loaded_netrwPlugin = 1
 -- Theme --
 opt.syntax = "ON"
 opt.termguicolors = true
