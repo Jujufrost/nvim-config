@@ -5,12 +5,14 @@ opt.relativenumber = true
 opt.scrolloff = 4
 opt.tabstop = 4
 opt.shiftwidth = 4
-vim.opt.signcolumn = 'no'
-
+opt.signcolumn = 'no'
+opt.autoindent = true
+opt.smartindent = true
+vim.g.loaded_netrw = 1
+vim.g.loaded_netrwPlugin = 1
 -- Theme --
 opt.syntax = "ON"
 opt.termguicolors = true
-vim.cmd[[colorscheme dracula]]
 
 -- Search --
 opt.ignorecase = true

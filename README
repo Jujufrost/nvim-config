@@ -1,3 +1,12 @@
 This is my personalized configuration of NeoVim.
+This uses the lazy nvim package manager.
 
-This uses the packer package manager. May have to install before use.
+--- To get up to date ---
+Lazy update
+
+
+--- Adding plugin ---
+Navigate to plugins directory.
+Create a new lua file with plugin name.
+Return a table with the plugin link at the top.
+Configure plugin.
