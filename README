@@ -1,6 +1,10 @@
 This is my personalized configuration of NeoVim.
 This uses the lazy nvim package manager.
 
+--- To get up to date ---
+Lazy update
+
+
 --- Adding plugin ---
 Navigate to plugins directory.
 Create a new lua file with plugin name.
