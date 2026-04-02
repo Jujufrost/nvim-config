@@ -1,4 +1,3 @@
 -- IMPORTS --
-require('julian.core')
-require('julian.lazy')
--- PLUGINS --
+require('core')
+require('plugin')
